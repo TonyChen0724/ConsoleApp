@@ -1,0 +1,276 @@
+2017-12-14 09:12:04Z Start
+
+2017-12-14 09:12:26Z CONNECT Socket Error!
+
+2017-12-14 09:12:28Z Command:ExtractImages FFmpeg\ffmpeg.exe--i "D:\New folder\VIRB_V0140021_Stitched.mp4"  -y -r 30 -q:v 1 -qscale:v 2 -qmin 1 -qmax 1 -qcomp 0 -qblur 0 "D:\New folder\VIRB_V0140021_Stitched\Front_%06d.jpg" 
+
+2017-12-14 09:15:22Z 
+
+2017-12-14 09:15:22Z finished
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 1 222 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 223 444 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 445 666 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 667 888 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 889 1110 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 1111 1332 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 1333 1554 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 1555 1776 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 1777 1998 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 1999 2222 
+
+2017-12-14 09:15:22Z Command:extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\\"  "D:\New folder\OutputCubeMap"  1440 1999 2220 
+
+2017-12-14 09:15:28Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:28Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:28Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:28Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:28Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:28Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:28Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:28Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:28Z Front_000001.jpg
+
+2017-12-14 09:15:28Z Front_000001.jpg
+
+2017-12-14 09:15:28Z Front_000001.jpg
+
+2017-12-14 09:15:28Z Front_000001.jpg
+
+2017-12-14 09:15:28Z Front_000001.jpg
+
+2017-12-14 09:15:28Z Front_000001.jpg
+
+2017-12-14 09:15:28Z Front_000001.jpg
+
+2017-12-14 09:15:28Z Front_000001.jpg
+
+2017-12-14 09:15:31Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:31Z Front_000001.jpg
+
+2017-12-14 09:15:31Z Front_000002.jpg
+
+2017-12-14 09:15:31Z Front_000002.jpg
+
+2017-12-14 09:15:32Z Front_000002.jpg
+
+2017-12-14 09:15:32Z Front_000002.jpg
+
+2017-12-14 09:15:32Z Front_000002.jpg
+
+2017-12-14 09:15:32Z Front_000002.jpg
+
+2017-12-14 09:15:33Z Front_000002.jpg
+
+2017-12-14 09:15:33Z Front_000003.jpg
+
+2017-12-14 09:15:33Z Front_000003.jpg
+
+2017-12-14 09:15:34Z Front_000003.jpg
+
+2017-12-14 09:15:34Z Front_000002.jpg
+
+2017-12-14 09:15:34Z Front_000002.jpg
+
+2017-12-14 09:15:34Z Front_000003.jpg
+
+2017-12-14 09:15:35Z Front_000003.jpg
+
+2017-12-14 09:15:36Z Front_000003.jpg
+
+2017-12-14 09:15:36Z Front_000004.jpg
+
+2017-12-14 09:15:36Z Front_000004.jpg
+
+2017-12-14 09:15:37Z Front_000003.jpg
+
+2017-12-14 09:15:37Z Front_000004.jpg
+
+2017-12-14 09:15:37Z Front_000003.jpg
+
+2017-12-14 09:15:38Z Front_000003.jpg
+
+2017-12-14 09:15:38Z Front_000004.jpg
+
+2017-12-14 09:15:38Z Front_000004.jpg
+
+2017-12-14 09:15:39Z Front_000005.jpg
+
+2017-12-14 09:15:39Z Front_000004.jpg
+
+2017-12-14 09:15:39Z Front_000004.jpg
+
+2017-12-14 09:15:40Z Front_000005.jpg
+
+2017-12-14 09:15:41Z Front_000005.jpg
+
+2017-12-14 09:15:41Z Front_000006.jpg
+
+2017-12-14 09:15:41Z Front_000005.jpg
+
+2017-12-14 09:15:41Z Front_000004.jpg
+
+2017-12-14 09:15:42Z Front_000005.jpg
+
+2017-12-14 09:15:42Z Front_000005.jpg
+
+2017-12-14 09:15:42Z Front_000004.jpg
+
+2017-12-14 09:15:42Z D:\New folder\VIRB_V0140021_Stitched\
+
+2017-12-14 09:15:42Z Front_000001.jpg
+
+2017-12-14 09:15:42Z Front_000002.jpg
+
+2017-12-14 09:15:42Z Front_000003.jpg
+
+2017-12-14 09:15:42Z Front_000004.jpg
+
+2017-12-14 09:15:43Z Front_000005.jpg
+
+2017-12-14 09:15:43Z Front_000006.jpg
+
+2017-12-14 09:15:44Z Front_000007.jpg
+
+2017-12-14 09:15:44Z Front_000006.jpg
+
+2017-12-14 09:15:44Z Front_000005.jpg
+
+2017-12-14 09:15:44Z Front_000006.jpg
+
+2017-12-14 09:15:45Z Front_000006.jpg
+
+2017-12-14 09:15:45Z Front_000005.jpg
+
+2017-12-14 09:15:46Z Front_000006.jpg
+
+2017-12-14 09:15:46Z Front_000005.jpg
+
+2017-12-14 09:15:46Z Front_000007.jpg
+
+2017-12-14 09:15:46Z Front_000008.jpg
+
+2017-12-14 09:15:47Z Front_000006.jpg
+
+2017-12-14 09:15:47Z Front_000007.jpg
+
+2017-12-14 09:15:48Z Front_000007.jpg
+
+2017-12-14 09:15:48Z Front_000006.jpg
+
+2017-12-14 09:15:49Z Front_000008.jpg
+
+2017-12-14 09:15:49Z Front_000007.jpg
+
+2017-12-14 09:15:49Z Front_000009.jpg
+
+2017-12-14 09:15:49Z Front_000006.jpg
+
+2017-12-14 09:15:49Z Front_000007.jpg
+
+2017-12-14 09:15:50Z Front_000008.jpg
+
+2017-12-14 09:15:50Z Front_000006.jpg
+
+2017-12-14 09:15:51Z Front_000007.jpg
+
+2017-12-14 09:15:51Z Front_000009.jpg
+
+2017-12-14 09:15:51Z Front_000008.jpg
+
+2017-12-14 09:15:51Z Front_000010.jpg
+
+2017-12-14 09:15:52Z Front_000007.jpg
+
+2017-12-14 09:15:52Z Front_000009.jpg
+
+2017-12-14 09:15:52Z Front_000008.jpg
+
+2017-12-14 09:15:53Z Front_000007.jpg
+
+2017-12-14 09:15:53Z Front_000008.jpg
+
+2017-12-14 09:15:54Z Front_000010.jpg
+
+2017-12-14 09:15:54Z Front_000007.jpg
+
+2017-12-14 09:15:54Z Front_000011.jpg
+
+2017-12-14 09:15:54Z Front_000008.jpg
+
+2017-12-14 09:15:55Z Front_000010.jpg
+
+2017-12-14 09:15:55Z Front_000009.jpg
+
+2017-12-14 09:15:55Z Front_000008.jpg
+
+2017-12-14 09:15:56Z Front_000009.jpg
+
+2017-12-14 09:15:56Z Front_000011.jpg
+
+2017-12-14 09:15:57Z Front_000012.jpg
+
+2017-12-14 09:15:57Z Front_000008.jpg
+
+2017-12-14 09:15:57Z Front_000009.jpg
+
+2017-12-14 09:15:57Z Front_000011.jpg
+
+2017-12-14 09:15:57Z Front_000008.jpg
+
+2017-12-14 09:15:58Z Front_000009.jpg
+
+2017-12-14 09:15:58Z Front_000010.jpg
+
+2017-12-14 09:15:59Z Front_000012.jpg
+
+2017-12-14 09:15:59Z Front_000013.jpg
+
+2017-12-14 09:15:59Z Front_000009.jpg
+
+2017-12-14 09:15:59Z Front_000010.jpg
+
+2017-12-14 09:16:00Z Front_000012.jpg
+
+2017-12-14 09:16:00Z Front_000010.jpg
+
+2017-12-14 09:16:00Z Front_000009.jpg
+
+2017-12-14 09:16:01Z Front_000013.jpg
+
+2017-12-14 09:16:01Z Front_000009.jpg
+
+2017-12-14 09:16:02Z Front_000014.jpg
+
+2017-12-14 09:16:02Z Front_000010.jpg
+
+2017-12-14 09:16:02Z Front_000013.jpg
+
+2017-12-14 09:16:02Z Front_000011.jpg
+
+2017-12-14 09:16:03Z Front_000010.jpg
+
+2017-12-14 09:16:03Z Front_000011.jpg
+
+2017-12-14 09:16:04Z Front_000014.jpg
+
+2017-12-14 09:16:04Z Front_000011.jpg
+

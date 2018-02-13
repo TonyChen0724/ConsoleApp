@@ -1,0 +1,10 @@
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\bin\Debug\CoDriverServerConsole.exe.config
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\obj\Debug\CoDriverServerConsole.csprojResolveAssemblyReference.cache
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\bin\Debug\CoDriverServerConsole.exe
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\bin\Debug\CoDriverServerConsole.pdb
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\bin\Debug\EpLibrary.cs.dll
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\bin\Debug\EpServerEngine.cs.dll
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\bin\Debug\FluentFTP.dll
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\bin\Debug\FluentFTP.xml
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\obj\Debug\CoDriverServerConsole.exe
+D:\UE4Proj\CoDriverTools\CoDriverConsoleApp\CoDriverServerConsole\obj\Debug\CoDriverServerConsole.pdb

@@ -1,0 +1,402 @@
+2017-12-07 14:13:20Z Start
+
+2017-12-07 14:13:41Z CONNECT Socket Error!
+
+2017-12-07 14:18:57Z Command:MultiTask-ImportImages Console\CoDriverConsoleApp.exe-3 tonyScene "D:\AU_WRC_PILBARA_REVERSE\EXPORT" 
+
+2017-12-07 14:18:57Z Command:MultiTask-BuildDerivedData Console\CoDriverConsoleApp.exe-6 
+
+2017-12-07 14:18:59Z Started
+
+2017-12-07 14:18:59Z -Scene Name: tonyScene
+
+2017-12-07 14:18:59Z -Source Folder: D:\AU_WRC_PILBARA_REVERSE\EXPORT
+
+2017-12-07 14:19:17Z 
+
+2017-12-07 14:19:18Z Started
+
+2017-12-07 14:19:20Z 
+
+2017-12-07 14:19:27Z Command:MultiTask-ImportImages Console\CoDriverConsoleApp.exe-3 tonyScene "D:\AU_WRC_PILBARA_REVERSE\EXPORT" 
+
+2017-12-07 14:19:27Z Command:MultiTask-BuildDerivedData Console\CoDriverConsoleApp.exe-6 
+
+2017-12-07 14:19:27Z Started
+
+2017-12-07 14:19:27Z -Scene Name: tonyScene
+
+2017-12-07 14:19:27Z -Source Folder: D:\AU_WRC_PILBARA_REVERSE\EXPORT
+
+2017-12-07 14:19:52Z 
+
+2017-12-07 14:19:53Z Started
+
+2017-12-07 14:19:55Z 
+
+2017-12-07 14:21:20Z Command:Setting Console\CoDriverConsoleApp.exe-0 "D:\RallyTemplate" "RallyTemplate" "D:\UnrealEngine-release-4.14.3" "C:\Program Files\Capturing Reality\RealityCapture" "E:\CRSrcData\Proj" 
+
+2017-12-07 14:21:20Z Started
+
+2017-12-07 14:21:20Z 
+
+2017-12-07 14:21:23Z Command:MultiTask-ImportImages Console\CoDriverConsoleApp.exe-3 tonyScene "D:\AU_WRC_PILBARA_REVERSE\EXPORT" 
+
+2017-12-07 14:21:23Z Command:MultiTask-BuildDerivedData Console\CoDriverConsoleApp.exe-6 
+
+2017-12-07 14:21:23Z Started
+
+2017-12-07 14:21:23Z -Scene Name: tonyScene
+
+2017-12-07 14:21:23Z -Source Folder: D:\AU_WRC_PILBARA_REVERSE\EXPORT
+
+2017-12-07 14:21:23Z UE4 Folder Init.
+
+2017-12-07 14:21:23Z ....Start import images....
+
+2017-12-07 14:21:23Z -Image Folder: D:\AU_WRC_PILBARA_REVERSE\EXPORT
+
+2017-12-07 14:21:23Z -Dest Folder: D:\RallyTemplate\Content\Scene\tonyScene\
+
+2017-12-07 14:21:25Z UE4 Command Started.
+
+2017-12-07 14:21:25Z D:\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exe-run=ImportAssets -CoDriver -source=D:\AU_WRC_PILBARA_REVERSE\EXPORT -dest=Images -project=D:\RallyTemplate\Content\Scene\tonyScene\ -importsettings=""
+
+2017-12-07 14:21:28Z ..Refresh..12/7/2017 2:21:28 PM
+
+2017-12-07 14:21:31Z ..Refresh..12/7/2017 2:21:31 PM
+
+2017-12-07 14:21:34Z ..Refresh..12/7/2017 2:21:34 PM
+
+2017-12-07 14:21:37Z ..Refresh..12/7/2017 2:21:37 PM
+
+2017-12-07 14:21:40Z ..Refresh..12/7/2017 2:21:40 PM
+
+2017-12-07 14:21:43Z ..Refresh..12/7/2017 2:21:43 PM
+
+2017-12-07 14:21:46Z ..Refresh..12/7/2017 2:21:46 PM
+
+2017-12-07 14:21:49Z ..Refresh..12/7/2017 2:21:49 PM
+
+2017-12-07 14:21:52Z ..Refresh..12/7/2017 2:21:52 PM
+
+2017-12-07 14:21:55Z ..Refresh..12/7/2017 2:21:55 PM
+
+2017-12-07 14:21:58Z ..Refresh..12/7/2017 2:21:58 PM
+
+2017-12-07 14:22:01Z ..Refresh..12/7/2017 2:22:01 PM
+
+2017-12-07 14:22:04Z ..Refresh..12/7/2017 2:22:04 PM
+
+2017-12-07 14:22:07Z ..Refresh..12/7/2017 2:22:07 PM
+
+2017-12-07 14:22:10Z ..Refresh..12/7/2017 2:22:10 PM
+
+2017-12-07 14:22:13Z ..Refresh..12/7/2017 2:22:13 PM
+
+2017-12-07 14:22:16Z ..Refresh..12/7/2017 2:22:16 PM
+
+2017-12-07 14:22:19Z ..Refresh..12/7/2017 2:22:19 PM
+
+2017-12-07 14:22:22Z ..Refresh..12/7/2017 2:22:22 PM
+
+2017-12-07 14:22:25Z ..Refresh..12/7/2017 2:22:25 PM
+
+2017-12-07 14:22:28Z ..Refresh..12/7/2017 2:22:28 PM
+
+2017-12-07 14:22:31Z ..Refresh..12/7/2017 2:22:31 PM
+
+2017-12-07 14:22:34Z ..Refresh..12/7/2017 2:22:34 PM
+
+2017-12-07 14:22:37Z ..Refresh..12/7/2017 2:22:37 PM
+
+2017-12-07 14:22:40Z ..Refresh..12/7/2017 2:22:40 PM
+
+2017-12-07 14:22:43Z ..Refresh..12/7/2017 2:22:43 PM
+
+2017-12-07 14:22:46Z ..Refresh..12/7/2017 2:22:46 PM
+
+2017-12-07 14:22:49Z ..Refresh..12/7/2017 2:22:49 PM
+
+2017-12-07 14:22:52Z ..Refresh..12/7/2017 2:22:52 PM
+
+2017-12-07 14:22:55Z ..Refresh..12/7/2017 2:22:55 PM
+
+2017-12-07 14:22:58Z ..Refresh..12/7/2017 2:22:58 PM
+
+2017-12-07 14:23:01Z ..Refresh..12/7/2017 2:23:01 PM
+
+2017-12-07 14:23:04Z ..Refresh..12/7/2017 2:23:04 PM
+
+2017-12-07 14:23:07Z ..Refresh..12/7/2017 2:23:07 PM
+
+2017-12-07 14:23:10Z ..Refresh..12/7/2017 2:23:10 PM
+
+2017-12-07 14:23:13Z ..Refresh..12/7/2017 2:23:13 PM
+
+2017-12-07 14:23:16Z ..Refresh..12/7/2017 2:23:16 PM
+
+2017-12-07 14:23:19Z ..Refresh..12/7/2017 2:23:19 PM
+
+2017-12-07 14:23:22Z ..Refresh..12/7/2017 2:23:22 PM
+
+2017-12-07 14:23:25Z ..Refresh..12/7/2017 2:23:25 PM
+
+2017-12-07 14:23:28Z ..Refresh..12/7/2017 2:23:28 PM
+
+2017-12-07 14:23:31Z ..Refresh..12/7/2017 2:23:31 PM
+
+2017-12-07 14:23:34Z ..Refresh..12/7/2017 2:23:34 PM
+
+2017-12-07 14:23:36Z 
+
+2017-12-07 14:23:37Z Started
+
+2017-12-07 14:23:37Z UE4 Folder Init.
+
+2017-12-07 14:23:37Z UE4 Command Started.
+
+2017-12-07 14:23:37Z D:\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exeD:\RallyTemplate\RallyTemplate.uproject -run=DerivedDataCache -fill
+
+2017-12-07 14:23:40Z ..Refresh..12/7/2017 2:23:40 PM
+
+2017-12-07 14:23:40Z UE4 Process has exited.
+
+2017-12-07 14:23:40Z ....Build Derived Data Completed....
+
+2017-12-07 14:23:40Z 
+
+2017-12-07 14:24:21Z Command:MultiTask-ImportImages Console\CoDriverConsoleApp.exe-3 tonyScene "D:\AU_WRC_PILBARA_REVERSE\newExport" 
+
+2017-12-07 14:24:21Z Command:MultiTask-BuildDerivedData Console\CoDriverConsoleApp.exe-6 
+
+2017-12-07 14:24:21Z Started
+
+2017-12-07 14:24:21Z -Scene Name: tonyScene
+
+2017-12-07 14:24:21Z -Source Folder: D:\AU_WRC_PILBARA_REVERSE\newExport
+
+2017-12-07 14:24:21Z UE4 Folder Init.
+
+2017-12-07 14:24:21Z ....Start import images....
+
+2017-12-07 14:24:21Z -Image Folder: D:\AU_WRC_PILBARA_REVERSE\newExport
+
+2017-12-07 14:24:21Z -Dest Folder: D:\RallyTemplate\Content\Scene\tonyScene\
+
+2017-12-07 14:24:21Z UE4 Command Started.
+
+2017-12-07 14:24:21Z D:\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exe-run=ImportAssets -CoDriver -source=D:\AU_WRC_PILBARA_REVERSE\newExport -dest=Images -project=D:\RallyTemplate\Content\Scene\tonyScene\ -importsettings=""
+
+2017-12-07 14:24:24Z ..Refresh..12/7/2017 2:24:24 PM
+
+2017-12-07 14:24:27Z ..Refresh..12/7/2017 2:24:27 PM
+
+2017-12-07 14:24:30Z ..Refresh..12/7/2017 2:24:30 PM
+
+2017-12-07 14:24:33Z ..Refresh..12/7/2017 2:24:33 PM
+
+2017-12-07 14:24:36Z ..Refresh..12/7/2017 2:24:36 PM
+
+2017-12-07 14:24:36Z UE4 Process has exited.
+
+2017-12-07 14:24:36Z ....End import images....
+
+2017-12-07 14:24:36Z 
+
+2017-12-07 14:24:37Z Started
+
+2017-12-07 14:24:37Z UE4 Folder Init.
+
+2017-12-07 14:24:37Z UE4 Command Started.
+
+2017-12-07 14:24:37Z D:\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exeD:\RallyTemplate\RallyTemplate.uproject -run=DerivedDataCache -fill
+
+2017-12-07 14:24:40Z ..Refresh..12/7/2017 2:24:40 PM
+
+2017-12-07 14:24:43Z ..Refresh..12/7/2017 2:24:43 PM
+
+2017-12-07 14:24:46Z ..Refresh..12/7/2017 2:24:46 PM
+
+2017-12-07 14:24:49Z ..Refresh..12/7/2017 2:24:49 PM
+
+2017-12-07 14:24:52Z ..Refresh..12/7/2017 2:24:52 PM
+
+2017-12-07 14:24:55Z ..Refresh..12/7/2017 2:24:55 PM
+
+2017-12-07 14:24:58Z ..Refresh..12/7/2017 2:24:58 PM
+
+2017-12-07 14:25:01Z ..Refresh..12/7/2017 2:25:01 PM
+
+2017-12-07 14:25:04Z ..Refresh..12/7/2017 2:25:04 PM
+
+2017-12-07 14:25:07Z 
+
+2017-12-07 14:25:12Z Command:MultiTask-ImportImages Console\CoDriverConsoleApp.exe-3 tonyScene "D:\AU_WRC_PILBARA_REVERSE\newExport" 
+
+2017-12-07 14:25:12Z Command:MultiTask-BuildDerivedData Console\CoDriverConsoleApp.exe-6 
+
+2017-12-07 14:25:12Z Started
+
+2017-12-07 14:25:12Z -Scene Name: tonyScene
+
+2017-12-07 14:25:12Z -Source Folder: D:\AU_WRC_PILBARA_REVERSE\newExport
+
+2017-12-07 14:25:12Z UE4 Folder Init.
+
+2017-12-07 14:25:12Z ....Start import images....
+
+2017-12-07 14:25:12Z -Image Folder: D:\AU_WRC_PILBARA_REVERSE\newExport
+
+2017-12-07 14:25:12Z -Dest Folder: D:\RallyTemplate\Content\Scene\tonyScene\
+
+2017-12-07 14:25:12Z UE4 Command Started.
+
+2017-12-07 14:25:12Z D:\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exe-run=ImportAssets -CoDriver -source=D:\AU_WRC_PILBARA_REVERSE\newExport -dest=Images -project=D:\RallyTemplate\Content\Scene\tonyScene\ -importsettings=""
+
+2017-12-07 14:25:15Z ..Refresh..12/7/2017 2:25:15 PM
+
+2017-12-07 14:25:18Z ..Refresh..12/7/2017 2:25:18 PM
+
+2017-12-07 14:25:21Z ..Refresh..12/7/2017 2:25:21 PM
+
+2017-12-07 14:25:24Z ..Refresh..12/7/2017 2:25:24 PM
+
+2017-12-07 14:25:27Z ..Refresh..12/7/2017 2:25:27 PM
+
+2017-12-07 14:25:30Z ..Refresh..12/7/2017 2:25:30 PM
+
+2017-12-07 14:25:33Z ..Refresh..12/7/2017 2:25:33 PM
+
+2017-12-07 14:25:36Z ..Refresh..12/7/2017 2:25:36 PM
+
+2017-12-07 14:25:39Z ..Refresh..12/7/2017 2:25:39 PM
+
+2017-12-07 14:25:42Z ..Refresh..12/7/2017 2:25:42 PM
+
+2017-12-07 14:25:45Z ..Refresh..12/7/2017 2:25:45 PM
+
+2017-12-07 14:25:48Z ..Refresh..12/7/2017 2:25:48 PM
+
+2017-12-07 14:25:51Z ..Refresh..12/7/2017 2:25:51 PM
+
+2017-12-07 14:25:54Z ..Refresh..12/7/2017 2:25:54 PM
+
+2017-12-07 14:25:57Z ..Refresh..12/7/2017 2:25:57 PM
+
+2017-12-07 14:26:00Z ..Refresh..12/7/2017 2:26:00 PM
+
+2017-12-07 14:26:03Z ..Refresh..12/7/2017 2:26:03 PM
+
+2017-12-07 14:26:06Z ..Refresh..12/7/2017 2:26:06 PM
+
+2017-12-07 14:26:06Z UE4 Process has exited.
+
+2017-12-07 14:26:06Z ....End import images....
+
+2017-12-07 14:26:06Z 
+
+2017-12-07 14:26:07Z Started
+
+2017-12-07 14:26:07Z UE4 Folder Init.
+
+2017-12-07 14:26:07Z UE4 Command Started.
+
+2017-12-07 14:26:07Z D:\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exeD:\RallyTemplate\RallyTemplate.uproject -run=DerivedDataCache -fill
+
+2017-12-07 14:26:10Z ..Refresh..12/7/2017 2:26:10 PM
+
+2017-12-07 14:26:13Z ..Refresh..12/7/2017 2:26:13 PM
+
+2017-12-07 14:26:16Z ..Refresh..12/7/2017 2:26:16 PM
+
+2017-12-07 14:26:19Z ..Refresh..12/7/2017 2:26:19 PM
+
+2017-12-07 14:26:22Z ..Refresh..12/7/2017 2:26:22 PM
+
+2017-12-07 14:26:25Z ..Refresh..12/7/2017 2:26:25 PM
+
+2017-12-07 14:26:28Z ..Refresh..12/7/2017 2:26:28 PM
+
+2017-12-07 14:26:31Z ..Refresh..12/7/2017 2:26:31 PM
+
+2017-12-07 14:26:34Z ..Refresh..12/7/2017 2:26:34 PM
+
+2017-12-07 14:26:37Z ..Refresh..12/7/2017 2:26:37 PM
+
+2017-12-07 14:26:40Z ..Refresh..12/7/2017 2:26:40 PM
+
+2017-12-07 14:26:43Z ..Refresh..12/7/2017 2:26:43 PM
+
+2017-12-07 14:26:46Z ..Refresh..12/7/2017 2:26:46 PM
+
+2017-12-07 14:26:49Z ..Refresh..12/7/2017 2:26:49 PM
+
+2017-12-07 14:26:52Z ..Refresh..12/7/2017 2:26:52 PM
+
+2017-12-07 14:26:55Z ..Refresh..12/7/2017 2:26:55 PM
+
+2017-12-07 14:26:58Z ..Refresh..12/7/2017 2:26:58 PM
+
+2017-12-07 14:27:01Z ..Refresh..12/7/2017 2:27:01 PM
+
+2017-12-07 14:27:04Z ..Refresh..12/7/2017 2:27:04 PM
+
+2017-12-07 14:27:07Z ..Refresh..12/7/2017 2:27:07 PM
+
+2017-12-07 14:27:10Z ..Refresh..12/7/2017 2:27:10 PM
+
+2017-12-07 14:27:13Z ..Refresh..12/7/2017 2:27:13 PM
+
+2017-12-07 14:27:16Z ..Refresh..12/7/2017 2:27:16 PM
+
+2017-12-07 14:27:19Z ..Refresh..12/7/2017 2:27:19 PM
+
+2017-12-07 14:27:22Z ..Refresh..12/7/2017 2:27:22 PM
+
+2017-12-07 14:27:25Z ..Refresh..12/7/2017 2:27:25 PM
+
+2017-12-07 14:27:28Z ..Refresh..12/7/2017 2:27:28 PM
+
+2017-12-07 14:27:31Z ..Refresh..12/7/2017 2:27:31 PM
+
+2017-12-07 14:27:34Z ..Refresh..12/7/2017 2:27:34 PM
+
+2017-12-07 14:27:37Z ..Refresh..12/7/2017 2:27:37 PM
+
+2017-12-07 14:27:40Z ..Refresh..12/7/2017 2:27:40 PM
+
+2017-12-07 14:27:43Z ..Refresh..12/7/2017 2:27:43 PM
+
+2017-12-07 14:27:46Z ..Refresh..12/7/2017 2:27:46 PM
+
+2017-12-07 14:27:49Z ..Refresh..12/7/2017 2:27:49 PM
+
+2017-12-07 14:27:52Z ..Refresh..12/7/2017 2:27:52 PM
+
+2017-12-07 14:27:55Z ..Refresh..12/7/2017 2:27:55 PM
+
+2017-12-07 14:27:58Z ..Refresh..12/7/2017 2:27:58 PM
+
+2017-12-07 14:28:01Z ..Refresh..12/7/2017 2:28:01 PM
+
+2017-12-07 14:28:04Z ..Refresh..12/7/2017 2:28:04 PM
+
+2017-12-07 14:28:07Z ..Refresh..12/7/2017 2:28:07 PM
+
+2017-12-07 14:28:10Z ..Refresh..12/7/2017 2:28:10 PM
+
+2017-12-07 14:28:13Z ..Refresh..12/7/2017 2:28:13 PM
+
+2017-12-07 14:28:16Z ..Refresh..12/7/2017 2:28:16 PM
+
+2017-12-07 14:28:19Z ..Refresh..12/7/2017 2:28:19 PM
+
+2017-12-07 14:28:22Z ..Refresh..12/7/2017 2:28:22 PM
+
+2017-12-07 14:28:22Z UE4 Process has exited.
+
+2017-12-07 14:28:22Z ....Build Derived Data Completed....
+
+2017-12-07 14:28:22Z 
+

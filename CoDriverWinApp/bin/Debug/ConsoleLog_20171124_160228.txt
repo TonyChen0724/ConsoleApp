@@ -1,0 +1,6 @@
+2017-11-24 16:02:28Z Start
+
+2017-11-24 16:02:33Z Please enter the right directory
+
+2017-11-24 16:02:45Z Files in paks folder checked
+

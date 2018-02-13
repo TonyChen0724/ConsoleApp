@@ -1,0 +1,544 @@
+2017-11-28 10:00:46Z Started
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\Win64
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Ogg
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\OpenVR
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Physx
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Ogg\Win64
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\OpenVR\OpenVRv1_0_2
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\OpenVR\OpenVRv1_0_2\Win64
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Physx\Win64
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Physx\Win64\VS2015
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Binaries
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Binaries\Win64
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Paks
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\FlorenceHill012017
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\PilbaraAUWRCSS1
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\WeddingbellsAUWRC
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E
+
+2017-11-28 10:00:46Z dir finished
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Manifest_DebugFiles_Win64.txt
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Manifest_NonUFSFiles_Win64.txt
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate.txt
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Run-PilbaraAUWRCSS1.txt
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Run-WeddingbellsAUWRC.txt
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\OpenVR\OpenVRv1_0_2\Win64\openvr_api.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Physx\Win64\VS2015\ApexFrameworkPROFILE_x64.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Physx\Win64\VS2015\APEX_ClothingPROFILE_x64.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Physx\Win64\VS2015\APEX_DestructiblePROFILE.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Physx\Win64\VS2015\APEX_LegacyPROFILE_x64.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Physx\Win64\VS2015\PhysX3CommonPROFILE_x64.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Physx\Win64\VS2015\PhysX3CookingPROFILE_x64.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Binaries\Win64\CrashReportClient
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\Compat.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\DeviceProfiles.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\EditorPerProjectUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\Engine.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\Game.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\GameplayTags.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\GameUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\Hardware.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\Input.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\Lightmass.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Config\WindowsNoEditor\Scalability.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\RallyTemplate-backup-2017.11.03-17.55.47.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\RallyTemplate-backup-2017.11.03-19.52.34.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\RallyTemplate-backup-2017.11.03-20.01.35.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\RallyTemplate-backup-2017.11.03-20.48.46.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\RallyTemplate-backup-2017.11.04-20.54.39.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\RallyTemplate-backup-2017.11.06-09.14.15.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Build\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\Compat.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\DeviceProfiles.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\EditorPerProjectUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\Engine.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\Game.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\GameplayTags.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\GameUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\Hardware.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\Input.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\Lightmass.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Config\WindowsNoEditor\Scalability.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\RallyTemplate-backup-2017.11.03-17.55.47.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\RallyTemplate-backup-2017.11.03-19.52.34.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\RallyTemplate-backup-2017.11.03-20.01.35.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\RallyTemplate-backup-2017.11.03-20.48.46.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\RallyTemplate-backup-2017.11.04-20.54.39.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\RallyTemplate-backup-2017.11.06-09.14.15.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Content\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\Compat.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\DeviceProfiles.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\EditorPerProjectUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\Engine.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\Game.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\GameplayTags.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\GameUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\Hardware.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\Input.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\Lightmass.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Config\WindowsNoEditor\Scalability.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\RallyTemplate-backup-2017.11.03-17.55.47.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\RallyTemplate-backup-2017.11.03-19.52.34.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\RallyTemplate-backup-2017.11.03-20.01.35.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\RallyTemplate-backup-2017.11.03-20.48.46.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\RallyTemplate-backup-2017.11.04-20.54.39.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\RallyTemplate-backup-2017.11.06-09.14.15.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Extras\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\Compat.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\DeviceProfiles.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\EditorPerProjectUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\Engine.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\Game.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\GameplayTags.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\GameUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\Hardware.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\Input.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\Lightmass.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Config\WindowsNoEditor\Scalability.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\RallyTemplate-backup-2017.11.03-17.55.47.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\RallyTemplate-backup-2017.11.03-19.52.34.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\RallyTemplate-backup-2017.11.03-20.01.35.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\RallyTemplate-backup-2017.11.03-20.48.46.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\RallyTemplate-backup-2017.11.04-20.54.39.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\RallyTemplate-backup-2017.11.06-09.14.15.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Plugins\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\Compat.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\DeviceProfiles.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\EditorPerProjectUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\Engine.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\Game.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\GameplayTags.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\GameUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\Hardware.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\Input.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\Lightmass.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Config\WindowsNoEditor\Scalability.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\RallyTemplate-backup-2017.11.03-17.55.47.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\RallyTemplate-backup-2017.11.03-19.52.34.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\RallyTemplate-backup-2017.11.03-20.01.35.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\RallyTemplate-backup-2017.11.03-20.48.46.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\RallyTemplate-backup-2017.11.04-20.54.39.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\RallyTemplate-backup-2017.11.06-09.14.15.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Programs\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\Compat.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\DeviceProfiles.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\EditorPerProjectUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\Engine.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\Game.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\GameplayTags.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\GameUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\Hardware.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\Input.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\Lightmass.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor\Scalability.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\RallyTemplate-backup-2017.11.03-17.55.47.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\RallyTemplate-backup-2017.11.03-19.52.34.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\RallyTemplate-backup-2017.11.03-20.01.35.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\RallyTemplate-backup-2017.11.03-20.48.46.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\RallyTemplate-backup-2017.11.04-20.54.39.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\RallyTemplate-backup-2017.11.06-09.14.15.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Saved\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\Compat.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\DeviceProfiles.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\EditorPerProjectUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\Engine.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\Game.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\GameplayTags.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\GameUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\Hardware.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\Input.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\Lightmass.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Config\WindowsNoEditor\Scalability.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\RallyTemplate-backup-2017.11.03-17.55.47.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\RallyTemplate-backup-2017.11.03-19.52.34.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\RallyTemplate-backup-2017.11.03-20.01.35.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\RallyTemplate-backup-2017.11.03-20.48.46.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\RallyTemplate-backup-2017.11.04-20.54.39.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\RallyTemplate-backup-2017.11.06-09.14.15.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\Engine\Shaders\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Binaries\Win64\RallyTemplate
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Binaries\Win64\RallyTemplate.pdb
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Co-Config
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\FlorenceHill012017\binarydata.road
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\FlorenceHill012017\binarydata2.road
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\FlorenceHill012017\binarydata3.road
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\PilbaraAUWRCSS1\binarydata.road
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\PilbaraAUWRCSS1\binarydata2.road
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\PilbaraAUWRCSS1\binarydata3.road
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\WeddingbellsAUWRC\binarydata.road
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\WeddingbellsAUWRC\binarydata2.road
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\WeddingbellsAUWRC\binarydata3.road
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\Compat.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\DeviceProfiles.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\EditorPerProjectUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\Engine.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\Game.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\GameplayTags.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\GameUserSettings.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\Hardware.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\Input.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\Lightmass.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor\Scalability.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\RallyTemplate-backup-2017.11.03-17.55.47.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\RallyTemplate-backup-2017.11.03-19.52.34.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\RallyTemplate-backup-2017.11.03-20.01.35.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\RallyTemplate-backup-2017.11.03-20.48.46.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\RallyTemplate-backup-2017.11.04-20.54.39.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\RallyTemplate-backup-2017.11.06-09.14.15.log
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3\CrashReportClient.ini
+
+2017-11-28 10:00:46Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E\CrashReportClient.ini
+

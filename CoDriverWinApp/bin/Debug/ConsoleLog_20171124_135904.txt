@@ -1,0 +1,24 @@
+2017-11-24 13:59:04Z Start
+
+2017-11-24 13:59:20Z Files in paks folder checked
+
+2017-11-24 13:59:26Z CONNECT Socket Error!
+
+2017-11-24 13:59:31Z Command:ScenePack Console\CoDriverConsoleApp.exe-packscene D:\tst\ShippingVersion D:\pakstuff
+
+2017-11-24 13:59:31Z Start
+
+2017-11-24 13:59:31Z 
+
+2017-11-24 13:59:50Z Command:ScenePack Console\CoDriverConsoleApp.exe-packscene D:\tst\ShippingVersion D:\pakstuff
+
+2017-11-24 13:59:50Z Start
+
+2017-11-24 13:59:50Z 
+
+2017-11-24 14:01:39Z Command:ScenePack Console\CoDriverConsoleApp.exe-packscene D:\tst\ShippingVersion D:\pakstuff
+
+2017-11-24 14:01:39Z Start
+
+2017-11-24 14:01:39Z 
+

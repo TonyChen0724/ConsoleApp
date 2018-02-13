@@ -1,0 +1,12 @@
+2018-01-22 11:23:13Z Start
+
+2018-01-22 11:23:35Z CONNECT Socket Error!
+
+2018-01-22 11:23:45Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv ffsef
+
+2018-01-22 11:23:46Z Started
+
+2018-01-22 11:23:46Z GroundVU: csv files doesn't match with image files
+
+2018-01-22 11:23:46Z 
+

@@ -1,0 +1,64 @@
+2018-01-22 11:00:22Z Start
+
+2018-01-22 11:00:28Z Command:Setting Console\CoDriverConsoleApp.exe-0 "D:\RallyTemplate" "RallyTemplate" "D:\UnrealEngine-release-4.14.3" "C:\Program Files\Capturing Reality\RealityCapture" "E:\CRSrcData\Proj" "D:\GV-1.2.91\Gv.exe" 
+
+2018-01-22 11:00:30Z Start
+
+2018-01-22 11:00:30Z 
+
+2018-01-22 11:00:44Z CONNECT Socket Error!
+
+2018-01-22 11:01:47Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv wferfsf
+
+2018-01-22 11:01:49Z Start
+
+2018-01-22 11:01:49Z 
+
+2018-01-22 11:01:50Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv wferfsf
+
+2018-01-22 11:01:51Z Start
+
+2018-01-22 11:01:51Z 
+
+2018-01-22 11:01:51Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv wferfsf
+
+2018-01-22 11:01:52Z Start
+
+2018-01-22 11:01:52Z 
+
+2018-01-22 11:01:57Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv wferfsf
+
+2018-01-22 11:01:58Z Start
+
+2018-01-22 11:01:58Z 
+
+2018-01-22 11:01:59Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv wferfsf
+
+2018-01-22 11:01:59Z Start
+
+2018-01-22 11:01:59Z 
+
+2018-01-22 11:02:00Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv wferfsf
+
+2018-01-22 11:02:00Z Start
+
+2018-01-22 11:02:00Z 
+
+2018-01-22 11:02:01Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv wferfsf
+
+2018-01-22 11:02:01Z Start
+
+2018-01-22 11:02:01Z 
+
+2018-01-22 11:02:05Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv wferfsf
+
+2018-01-22 11:02:06Z Start
+
+2018-01-22 11:02:06Z 
+
+2018-01-22 11:02:06Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\textRoad D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv wferfsf
+
+2018-01-22 11:02:07Z Start
+
+2018-01-22 11:02:07Z 
+

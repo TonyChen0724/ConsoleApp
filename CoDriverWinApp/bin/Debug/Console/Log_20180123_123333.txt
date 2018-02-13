@@ -1,0 +1,4 @@
+2018-01-23 12:33:33Z Started
+
+2018-01-23 12:33:35Z GroundVU: finished
+

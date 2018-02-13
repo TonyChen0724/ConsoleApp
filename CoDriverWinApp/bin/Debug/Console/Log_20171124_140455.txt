@@ -1,0 +1,6 @@
+2017-11-24 14:04:55Z Start
+
+2017-11-24 14:05:00Z -Scene Name: WeddingbellsAUWRC
+
+2017-11-24 14:05:00Z Directory doesn't exist! E:\ShareF\AU_WRC_WedingBell\New folder
+

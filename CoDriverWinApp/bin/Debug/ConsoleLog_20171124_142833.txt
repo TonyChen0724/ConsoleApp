@@ -1,0 +1,28 @@
+2017-11-24 14:28:33Z Start
+
+2017-11-24 14:28:43Z Files in paks folder checked
+
+2017-11-24 14:28:52Z Command:ScenePack Console\CoDriverConsoleApp.exe-ScenePack D:\tst\ShippingVersion D:\pakstuff
+
+2017-11-24 14:28:53Z Start
+
+2017-11-24 14:28:53Z 
+
+2017-11-24 14:28:54Z CONNECT Socket Error!
+
+2017-11-24 14:29:36Z Command:AddGPSToImage Console\CoDriverConsoleApp.exe-7 "D:\pakstuff"
+
+2017-11-24 14:29:36Z Start
+
+2017-11-24 14:29:36Z ....Set Folder....
+
+2017-11-24 14:29:36Z ....Process....
+
+2017-11-24 14:29:36Z ....Run Exif Command....
+
+2017-11-24 14:29:36Z ....Clean Cache....
+
+2017-11-24 14:29:36Z ....Add GPS Data To Image....
+
+2017-11-24 14:29:36Z 
+

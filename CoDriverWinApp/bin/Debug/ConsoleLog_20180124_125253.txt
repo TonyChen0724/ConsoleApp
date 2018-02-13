@@ -1,0 +1,22 @@
+2018-01-24 12:52:53Z Start
+
+2018-01-24 12:53:12Z Command:Setting Console\CoDriverConsoleApp.exe-0 "D:\RallyTemplate" "RallyTemplate" "D:\UnrealEngine-release-4.14.3" "C:\Program Files\Capturing Reality\RealityCapture" "E:\CRSrcData\Proj" "D:\360Downloads\GV-1.2.92\Gv.exe" "D:\testGroundVU\textRoad" 
+
+2018-01-24 12:53:14Z CONNECT Socket Error!
+
+2018-01-24 12:53:15Z Started
+
+2018-01-24 12:53:15Z 
+
+2018-01-24 12:53:30Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv fsefsdffd
+
+2018-01-24 12:53:31Z Started
+
+2018-01-24 12:53:45Z 0.0049353974397377
+
+2018-01-24 12:53:45Z 0.217889431258087
+
+2018-01-24 12:53:45Z 1072.52657413
+
+2018-01-24 12:53:52Z 
+

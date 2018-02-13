@@ -1,0 +1,46 @@
+2018-01-23 11:41:42Z Start
+
+2018-01-23 11:42:05Z CONNECT Socket Error!
+
+2018-01-23 11:42:08Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv ffsfesf
+
+2018-01-23 11:42:09Z Start
+
+2018-01-23 11:42:09Z 
+
+2018-01-23 11:50:39Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv ffsfesf
+
+2018-01-23 11:50:41Z Start
+
+2018-01-23 11:50:41Z 
+
+2018-01-23 11:50:42Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv ffsfesf
+
+2018-01-23 11:50:43Z Start
+
+2018-01-23 11:50:43Z 
+
+2018-01-23 11:50:43Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv ffsfesf
+
+2018-01-23 11:50:44Z Start
+
+2018-01-23 11:50:44Z 
+
+2018-01-23 11:50:44Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv ffsfesf
+
+2018-01-23 11:50:45Z Start
+
+2018-01-23 11:50:45Z 
+
+2018-01-23 11:51:24Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv ffsfesf
+
+2018-01-23 11:51:25Z Start
+
+2018-01-23 11:51:25Z 
+
+2018-01-23 11:51:25Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv ffsfesf
+
+2018-01-23 11:51:26Z Start
+
+2018-01-23 11:51:26Z 
+

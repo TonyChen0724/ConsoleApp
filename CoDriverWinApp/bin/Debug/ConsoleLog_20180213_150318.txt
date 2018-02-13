@@ -1,0 +1,40 @@
+2018-02-13 15:03:18Z Start
+
+2018-02-13 15:03:39Z Command:Setting Console\CoDriverConsoleApp.exe-0 "D:\RallyTemplate" "RallyTemplate" "D:\UnrealEngine-release-4.14.3" "C:\Program Files\Capturing Reality\RealityCapture" "D:\n" "" "D:\testGroundVU\textRoad" 
+
+2018-02-13 15:03:40Z CONNECT Socket Error!
+
+2018-02-13 15:03:41Z Started
+
+2018-02-13 15:03:41Z 
+
+2018-02-13 15:04:55Z Command:CRProjCreation Console\CoDriverConsoleApp.exe-17 "D:\outputCubemap\Front" "" "" "" 1 g
+
+2018-02-13 15:04:55Z Started
+
+2018-02-13 15:04:55Z Select folder: D:\outputCubemap\Front\ 0 2283
+
+2018-02-13 15:30:47Z 
+
+2018-02-13 15:31:12Z Command:Setting Console\CoDriverConsoleApp.exe-0 "D:\RallyTemplate" "RallyTemplate" "D:\UnrealEngine-release-4.14.3" "C:\Program Files\Capturing Reality\RealityCapture" "D:\n" "" "D:\testGroundVU\textRoad" 
+
+2018-02-13 15:31:13Z Started
+
+2018-02-13 15:31:13Z 
+
+2018-02-13 15:31:16Z Command:CRProjCreation Console\CoDriverConsoleApp.exe-17 "D:\outputCubemap\Front" "" "" "" 1 g
+
+2018-02-13 15:31:17Z Started
+
+2018-02-13 15:31:17Z Select folder: D:\outputCubemap\Front\ 0 2283
+
+2018-02-13 15:31:19Z 
+
+2018-02-13 15:31:20Z Command:CRProjCreation Console\CoDriverConsoleApp.exe-17 "D:\outputCubemap\Front" "" "" "" 1 g
+
+2018-02-13 15:31:21Z Started
+
+2018-02-13 15:31:21Z Select folder: D:\outputCubemap\Front\ 0 2283
+
+2018-02-13 15:31:30Z 
+

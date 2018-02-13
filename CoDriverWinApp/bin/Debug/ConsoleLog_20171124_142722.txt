@@ -1,0 +1,12 @@
+2017-11-24 14:27:22Z Start
+
+2017-11-24 14:27:33Z Files in paks folder checked
+
+2017-11-24 14:27:41Z Command:ScenePack Console\CoDriverConsoleApp.exe-ScenePack D:\tst\ShippingVersion D:\pakstuff
+
+2017-11-24 14:27:45Z CONNECT Socket Error!
+
+2017-11-24 14:27:45Z Start
+
+2017-11-24 14:27:45Z 
+

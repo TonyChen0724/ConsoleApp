@@ -1,0 +1,16 @@
+2018-01-30 12:38:54Z Start
+
+2018-01-30 12:39:16Z CONNECT Socket Error!
+
+2018-01-30 12:40:39Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\CardronaBikePark_lerp.csv CardronaBikePark
+
+2018-01-30 12:40:40Z Started
+
+2018-01-30 16:16:52Z 
+
+2018-01-30 16:18:59Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\CardronaBikePark_lerp.csv CardronaBikePark
+
+2018-01-30 16:19:01Z Started
+
+2018-01-31 09:05:04Z 
+

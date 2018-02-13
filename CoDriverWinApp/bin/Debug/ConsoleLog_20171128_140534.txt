@@ -1,0 +1,38 @@
+2017-11-28 14:05:34Z Start
+
+2017-11-28 14:05:49Z Files in paks folder checked
+
+2017-11-28 14:05:52Z Command:ScenePack Console\CoDriverConsoleApp.exe-15 D:\tst\ShippingVersion PilbaraAUWRCSS1 
+
+2017-11-28 14:05:54Z Started
+
+2017-11-28 14:05:54Z Finished
+
+2017-11-28 14:05:56Z CONNECT Socket Error!
+
+2017-11-28 14:06:00Z 
+
+2017-11-28 14:06:04Z Command:ScenePack Console\CoDriverConsoleApp.exe-15 D:\tst\ShippingVersion 
+
+2017-11-28 14:06:05Z Started
+
+2017-11-28 14:06:05Z You don't have enough arguments
+
+2017-11-28 14:06:05Z 
+
+2017-11-28 14:06:12Z Command:ScenePack Console\CoDriverConsoleApp.exe-15 D:\tst\ShippingVersion PilbaraAUWRCSS1 WeddingbellsAUWRC 
+
+2017-11-28 14:06:13Z Started
+
+2017-11-28 14:06:13Z Finished
+
+2017-11-28 14:06:18Z 
+
+2017-11-28 14:07:29Z Command:ScenePack Console\CoDriverConsoleApp.exe-15 D:\tst\ShippingVersion PilbaraAUWRCSS1 WeddingbellsAUWRC 
+
+2017-11-28 14:07:29Z Started
+
+2017-11-28 14:07:29Z Finished
+
+2017-11-28 14:07:35Z 
+

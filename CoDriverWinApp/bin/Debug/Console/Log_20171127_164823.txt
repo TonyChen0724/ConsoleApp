@@ -1,0 +1,198 @@
+2017-11-27 16:48:23Z Started
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Build
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Extras
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Plugins
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Programs
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Saved
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Shaders
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\Win64
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Ogg
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\OpenVR
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Ogg\Win64
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\OpenVR\OpenVRv1_0_2
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\OpenVR\OpenVRv1_0_2\Win64
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX\Win64
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\PhysX\Win64\VS2015
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Internationalization
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Internationalization\icudt53l
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Internationalization\icudt53l\brkitr
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Internationalization\icudt53l\coll
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Internationalization\icudt53l\curr
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Internationalization\icudt53l\lang
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Internationalization\icudt53l\rbnf
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Internationalization\icudt53l\region
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Internationalization\icudt53l\zone
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Common
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\CrashTracker
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Docking
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Fonts
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Icons
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\MessageLog
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Old
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Testing
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Tutorials
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Common\Window
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Icons\Edit
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Content\Slate\Testing\Fonts
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Extras\Redist
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Extras\Redist\en-us
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Plugins\FMODStudio
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Plugins\FMODStudio\Binaries
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Plugins\FMODStudio\Binaries\Win64
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Programs\CrashReportClient
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Programs\CrashReportClient\Config
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Saved\Config
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Saved\Config\WindowsNoEditor
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Shaders\StandaloneRenderer
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Shaders\StandaloneRenderer\D3D
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\Engine\Shaders\StandaloneRenderer\OpenGL
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Binaries
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Binaries\Win64
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Paks
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\FlorenceHill012017
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\PilbaraAUWRCSS1
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\WeddingbellsAUWRC
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\PilbaraAUWRCSS1\Sections
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\PilbaraAUWRCSS1\Sections\1
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\PilbaraAUWRCSS1\Sections\2
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\PilbaraAUWRCSS1\Sections\3
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\WeddingbellsAUWRC\Sections
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\WeddingbellsAUWRC\Sections\1
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Scene\WeddingbellsAUWRC\Sections\2
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Config\WindowsNoEditor
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-1B791752451623C08658F6A4786759E1
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-2DFDC2B849329749475580ABFD73D9E3
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-4A074FC747035AA97262349E34EDB14E
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-4CAD0C0D43B9657A40A4C088823918F4
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-5639269843B807C465281EA6C950B90D
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-5639269843B807C465281EA6C950B90D_0000
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-6306F1064AA69BFF15A94F9127DE4767
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-688F4796470D6A4458FA5BBF89D323B1
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-68CF99634E0EBB8A2DA70F890D1709DB
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-849D4A9D4147C25D0C3630BB299C7711
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-A2B903EE458F5377506C929D1A45A734
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-B7E4B6DE42D3D3ACCFB009983F012695
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-B88FAD0E48D1D1C9F859B2AB1D0A67A1
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-C2AFED894FD67D54A5224B9BAAADA840
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-DCDAA14B4679AB87417E2AA411DF36F0
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-E34390BD4EC73896E95A54BCD3B80958
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-E6FC78F04E44101BCB72709D0163BFEB
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-F202CFE3492D6D8E95A283A841796C05
+
+2017-11-27 16:48:23Z D:\ShippingVersion\WindowsNoEditor\RallyTemplate\Saved\Logs\UE4CC-Windows-F386D98346FC82F7963C0691087D4EF6
+
+2017-11-27 16:48:23Z dir finished
+

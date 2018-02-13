@@ -1,0 +1,14 @@
+2017-12-18 11:46:00Z Start
+
+2017-12-18 11:46:22Z CONNECT Socket Error!
+
+2017-12-18 11:46:35Z Command:ExtractImages FFmpeg\ffmpeg.exe--i "D:\New folder\VIRB_V0140021_Stitched.mp4"  -y -r 30 -q:v 1 -qscale:v 2 -qmin 1 -qmax 1 -qcomp 0 -qblur 0 "D:\New folder\VIRB_V0140021_Stitched\Front_%06d.jpg" 
+
+2017-12-18 11:46:44Z Command:ExtractImages FFmpeg\ffmpeg.exe--i "D:\New folder\second\secondstuff.mp4"  -y -r 30 -q:v 1 -qscale:v 2 -qmin 1 -qmax 1 -qcomp 0 -qblur 0 "D:\New folder\second\secondstuff\Front_%06d.jpg" 
+
+2017-12-18 11:51:47Z 
+
+2017-12-18 11:51:50Z 
+
+2017-12-18 11:51:53Z image extraction finished
+

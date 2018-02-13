@@ -1,0 +1,48 @@
+2017-11-24 15:47:28Z Start
+
+2017-11-24 15:47:37Z Files in paks folder checked
+
+2017-11-24 15:47:49Z CONNECT Socket Error!
+
+2017-11-24 15:47:50Z Command:ScenePack Console\CoDriverConsoleApp.exe-ScenePack D:\tst\ShippingVersion D:\pakstuff PilbaraAUWRCSS1
+
+2017-11-24 15:47:51Z Started
+
+2017-11-24 15:47:51Z ScenePack
+
+2017-11-24 15:47:51Z D:\tst\ShippingVersion
+
+2017-11-24 15:47:51Z D:\pakstuff
+
+2017-11-24 15:47:51Z PilbaraAUWRCSS1
+
+2017-11-24 15:48:35Z 
+
+2017-11-24 15:49:30Z Command:ScenePack Console\CoDriverConsoleApp.exe-ScenePack D:\tst\ShippingVersion D:\pakstuff PilbaraAUWRCSS1
+
+2017-11-24 15:49:30Z Started
+
+2017-11-24 15:49:30Z ScenePack
+
+2017-11-24 15:49:30Z D:\tst\ShippingVersion
+
+2017-11-24 15:49:30Z D:\pakstuff
+
+2017-11-24 15:49:30Z PilbaraAUWRCSS1
+
+2017-11-24 15:53:52Z 
+
+2017-11-24 15:53:59Z Command:ScenePack Console\CoDriverConsoleApp.exe-ScenePack D:\tst\ShippingVersion D:\pakstuff PilbaraAUWRCSS1
+
+2017-11-24 15:53:59Z Started
+
+2017-11-24 15:53:59Z ScenePack
+
+2017-11-24 15:53:59Z D:\tst\ShippingVersion
+
+2017-11-24 15:53:59Z D:\pakstuff
+
+2017-11-24 15:53:59Z PilbaraAUWRCSS1
+
+2017-11-24 15:54:03Z 
+

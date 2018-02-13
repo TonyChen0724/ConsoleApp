@@ -1,0 +1,8 @@
+2017-11-24 16:05:52Z Start
+
+2017-11-24 16:05:56Z Please enter the right directory
+
+2017-11-24 16:05:59Z Please enter the right directory
+
+2017-11-24 16:06:13Z CONNECT Socket Error!
+

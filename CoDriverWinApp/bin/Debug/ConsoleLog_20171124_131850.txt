@@ -1,0 +1,6 @@
+2017-11-24 13:18:50Z Start
+
+2017-11-24 13:20:41Z Command:AddGPSToImage Console\CoDriverConsoleApp.exe-7 "D:\img"
+
+2017-11-24 13:21:28Z CONNECT Socket Error!
+

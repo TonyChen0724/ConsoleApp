@@ -1,0 +1,10 @@
+2018-01-24 13:01:11Z Start
+
+2018-01-24 13:01:33Z CONNECT Socket Error!
+
+2018-01-24 13:01:34Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv fghfhfghj
+
+2018-01-24 13:01:35Z Started
+
+2018-01-24 13:01:47Z -0.0227448446198650345 0.265576415844805069 1072.49569675814291
+

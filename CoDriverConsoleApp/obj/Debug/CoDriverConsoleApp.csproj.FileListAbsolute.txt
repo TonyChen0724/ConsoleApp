@@ -1,0 +1,7 @@
+D:\svnstuff\CoDriverConsoleApp\bin\Debug\CoDriverConsoleApp.exe.config
+D:\svnstuff\CoDriverWinApp\bin\Debug\Console\CoDriverConsoleApp.exe.config
+D:\svnstuff\CoDriverWinApp\bin\Debug\Console\CoDriverConsoleApp.exe
+D:\svnstuff\CoDriverWinApp\bin\Debug\Console\CoDriverConsoleApp.pdb
+D:\svnstuff\CoDriverConsoleApp\obj\Debug\CoDriverConsoleApp.exe
+D:\svnstuff\CoDriverConsoleApp\obj\Debug\CoDriverConsoleApp.pdb
+D:\svnstuff\CoDriverConsoleApp\obj\Debug\CoDriverConsoleApp.csprojResolveAssemblyReference.cache

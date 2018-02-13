@@ -1,0 +1,12 @@
+2017-11-28 10:44:03Z Started
+
+2017-11-28 10:44:04Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Paks\WeddingbellsAUWRC.pak
+
+2017-11-28 10:44:04Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Paks\WeddingbellsAUWRC.pak
+
+2017-11-28 10:44:04Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Paks\WeddingbellsAUWRC_AssetRegistry.bin
+
+2017-11-28 10:44:04Z D:\tst\ShippingVersion\WindowsNoEditor\RallyTemplate\Content\Paks\WeddingbellsAUWRC_AssetRegistry.bin
+
+2017-11-28 10:44:04Z Finished
+

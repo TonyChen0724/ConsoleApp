@@ -1,0 +1,12 @@
+2017-12-08 14:36:46Z Started
+
+2017-12-08 14:36:46Z UE4 Folder Init.
+
+2017-12-08 14:36:49Z UE4 Command Started.
+
+2017-12-08 14:36:49Z D:\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exeD:\RallyTemplate\RallyTemplate.uproject -run=DerivedDataCache -fill
+
+2017-12-08 14:37:22Z UE4 Process has exited.
+
+2017-12-08 14:37:22Z ....Build Derived Data Completed....
+

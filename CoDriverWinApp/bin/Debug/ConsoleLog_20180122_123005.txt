@@ -1,0 +1,4 @@
+2018-01-22 12:30:05Z Start
+
+2018-01-22 12:30:26Z CONNECT Socket Error!
+

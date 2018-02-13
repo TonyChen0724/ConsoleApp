@@ -1,0 +1,6 @@
+2017-09-28 15:03:47Z Start
+
+2017-09-28 15:04:39Z Copy JPG: E:\TestExtractMultiVideo\Front_000820.jpg To E:\TestExtractMultiVideo\Section001\Front_000820.jpg
+
+2017-09-28 15:04:41Z Copy XMP: E:\TestExtractMultiVideo\Front_000820.jpg To E:\TestExtractMultiVideo\Section001\Front_000820.jpg
+

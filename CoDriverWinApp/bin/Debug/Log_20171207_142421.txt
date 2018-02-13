@@ -1,0 +1,22 @@
+2017-12-07 14:24:21Z Started
+
+2017-12-07 14:24:21Z -Scene Name: tonyScene
+
+2017-12-07 14:24:21Z -Source Folder: D:\AU_WRC_PILBARA_REVERSE\newExport
+
+2017-12-07 14:24:21Z UE4 Folder Init.
+
+2017-12-07 14:24:21Z ....Start import images....
+
+2017-12-07 14:24:21Z -Image Folder: D:\AU_WRC_PILBARA_REVERSE\newExport
+
+2017-12-07 14:24:21Z -Dest Folder: D:\RallyTemplate\Content\Scene\tonyScene\
+
+2017-12-07 14:24:21Z UE4 Command Started.
+
+2017-12-07 14:24:21Z D:\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exe-run=ImportAssets -CoDriver -source=D:\AU_WRC_PILBARA_REVERSE\newExport -dest=Images -project=D:\RallyTemplate\Content\Scene\tonyScene\ -importsettings=""
+
+2017-12-07 14:24:36Z UE4 Process has exited.
+
+2017-12-07 14:24:36Z ....End import images....
+

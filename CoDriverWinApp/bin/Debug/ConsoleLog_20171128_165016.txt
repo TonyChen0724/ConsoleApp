@@ -1,0 +1,14 @@
+2017-11-28 16:50:16Z Start
+
+2017-11-28 16:50:28Z Files in paks folder checked
+
+2017-11-28 16:50:30Z Command:ScenePack Console\CoDriverConsoleApp.exe-15 D:\tst\ShippingVersion PilbaraAUWRCSS1 
+
+2017-11-28 16:50:33Z Started
+
+2017-11-28 16:50:33Z ScenePack: Finished
+
+2017-11-28 16:50:33Z 
+
+2017-11-28 16:50:38Z CONNECT Socket Error!
+

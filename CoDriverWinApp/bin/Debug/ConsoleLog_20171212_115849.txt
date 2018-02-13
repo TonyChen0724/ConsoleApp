@@ -1,0 +1,12 @@
+2017-12-12 11:58:49Z Start
+
+2017-12-12 11:59:05Z Command:MultiTask-ExtractImages FFmpeg\ffmpeg.exe--i "D:\New folder\VIRB_V0140021_Stitched.mp4"  -y -r 30 -q:v 1 -qscale:v 2 -qmin 1 -qmax 1 -qcomp 0 -qblur 0 "D:\New folder\VIRB_V0140021_Stitched\Front_%06d.jpg" 
+
+2017-12-12 11:59:05Z Command:MultiTask-extractCubemap OpenCV\OpenCVConsoleApp.exe-11 "D:\New folder\VIRB_V0140021_Stitched\"  "D:\New folder\OutputCubeMap"  1440
+
+2017-12-12 11:59:11Z CONNECT Socket Error!
+
+2017-12-12 12:02:02Z 
+
+2017-12-12 12:02:53Z 
+

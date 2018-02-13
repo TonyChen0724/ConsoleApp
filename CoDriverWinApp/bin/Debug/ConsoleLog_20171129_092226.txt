@@ -1,0 +1,12 @@
+2017-11-29 09:22:26Z Start
+
+2017-11-29 09:22:48Z CONNECT Socket Error!
+
+2017-11-29 09:24:29Z Command:MultiTask-ExtractImages FFmpeg\ffmpeg.exe--i "D:\console\360Sample.mp4"  -y -r 30 -q:v 1 -qscale:v 2 -qmin 1 -qmax 1 -qcomp 0 -qblur 0 "D:\console\360Sample\Front_%06d.jpg" 
+
+2017-11-29 09:24:29Z Command:MultiTask-ExtractGPSData OpenCV\OpenCVConsoleApp.exe-10 "D:\console\360Sample.mp4" "D:\console\360Sample\360Sample_gps5.txt" 
+
+2017-11-29 09:25:07Z 
+
+2017-11-29 09:25:10Z 
+

@@ -1,0 +1,4 @@
+2018-02-13 14:33:26Z Started
+
+2018-02-13 14:33:26Z Select folder: D:\outputCubemap\Left\ 0 2283
+

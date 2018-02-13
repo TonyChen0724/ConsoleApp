@@ -1,0 +1,6 @@
+2017-09-27 14:21:27Z Start
+
+2017-09-27 14:21:51Z Select folder: E:\CRSrcData\GOPR0122\ 1 524
+
+2017-09-27 14:21:51Z Select folder: E:\CRSrcData\GOPR0107\ 2 1515
+

@@ -1,0 +1,18 @@
+2017-12-08 13:39:42Z Started
+
+2017-12-08 13:39:42Z -Scene Name: TonyNewScene
+
+2017-12-08 13:39:42Z -Source Folder: D:\AU_WRC_NEWRY\Exports
+
+2017-12-08 13:39:42Z UE4 Folder Init.
+
+2017-12-08 13:39:42Z ....Start import images....
+
+2017-12-08 13:39:42Z -Image Folder: D:\AU_WRC_NEWRY\Exports
+
+2017-12-08 13:39:42Z -Dest Folder: D:\RallyTemplate\Content\Scene\TonyNewScene\
+
+2017-12-08 13:39:44Z UE4 Command Started.
+
+2017-12-08 13:39:44Z D:\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exe-run=ImportAssets -CoDriver -source=D:\AU_WRC_NEWRY\Exports -dest=Images -project=D:\RallyTemplate\Content\Scene\TonyNewScene\ -importsettings=""
+

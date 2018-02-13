@@ -1,0 +1,18 @@
+2017-11-01 18:46:09Z Start
+
+2017-11-01 18:46:10Z -Scene Name: WeddingbellsAUWRC
+
+2017-11-01 18:46:10Z -Source Folder: E:\ShareF\AU_WRC_WedingBell\New folder
+
+2017-11-01 18:46:34Z UE4 Folder Init.
+
+2017-11-01 18:46:34Z ....Start import images....
+
+2017-11-01 18:46:37Z -Image Folder: E:\ShareF\AU_WRC_WedingBell\New folder
+
+2017-11-01 18:46:38Z -Dest Folder: D:\UE4Proj\DriTest\Content\Scene\WeddingbellsAUWRC\
+
+2017-11-01 18:46:39Z UE4 Command Started.
+
+2017-11-01 18:46:39Z D:\UE4Proj\UnrealEngine-release-4.14.3\Engine\Binaries\Win64\UE4Editor-Cmd.exe-run=ImportAssets -CoDriver -source=E:\ShareF\AU_WRC_WedingBell\New folder -dest=Images -project=D:\UE4Proj\DriTest\Content\Scene\WeddingbellsAUWRC\ -importsettings=""
+

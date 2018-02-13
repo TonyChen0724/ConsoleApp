@@ -1,0 +1,8 @@
+2017-12-06 15:03:50Z Start
+
+2017-12-06 15:04:01Z Command:MultiTask-ExtractImages FFmpeg\ffmpeg.exe--i "D:\image\VIRB_V0140021_Stitched.mp4"  -y -r 30 -q:v 1 -qscale:v 2 -qmin 1 -qmax 1 -qcomp 0 -qblur 0 "D:\image\VIRB_V0140021_Stitched\images\Front_%06d.jpg" 
+
+2017-12-06 15:04:01Z Command:MultiTask-ExtractGPSData OpenCV\OpenCVConsoleApp.exe-10 "D:\image\VIRB_V0140021_Stitched.mp4" "D:\image\VIRB_V0140021_Stitched\images\_gps5.txt" 
+
+2017-12-06 15:04:08Z Command:extractImage OpenCV\OpenCVConsoleApp.exe-11 D:\image\VIRB_V0140021_Stitched\images D:\image\VIRB_V0140021_Stitched\cubemaps
+

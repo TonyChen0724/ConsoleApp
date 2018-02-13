@@ -1,0 +1,40 @@
+2018-01-23 11:08:27Z Start
+
+2018-01-23 11:08:49Z CONNECT Socket Error!
+
+2018-01-23 11:08:54Z Command:Setting Console\CoDriverConsoleApp.exe-0 "D:\RallyTemplate" "RallyTemplate" "D:\UnrealEngine-release-4.14.3" "C:\Program Files\Capturing Reality\RealityCapture" "E:\CRSrcData\Proj" "D:\GV-1.2.92\Gv.exe" "" 
+
+2018-01-23 11:08:56Z Started
+
+2018-01-23 11:08:56Z 
+
+2018-01-23 11:09:08Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv fasfsefsf
+
+2018-01-23 11:09:08Z Started
+
+2018-01-23 11:09:08Z GroundVU: Working Dir does not exist
+
+2018-01-23 11:09:08Z 
+
+2018-01-23 11:09:30Z Command:Setting Console\CoDriverConsoleApp.exe-0 "D:\RallyTemplate" "RallyTemplate" "D:\UnrealEngine-release-4.14.3" "C:\Program Files\Capturing Reality\RealityCapture" "E:\CRSrcData\Proj" "" "D:\testGroundVU\textRoad" 
+
+2018-01-23 11:09:30Z Started
+
+2018-01-23 11:09:30Z 
+
+2018-01-23 11:09:32Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv fasfsefsf
+
+2018-01-23 11:09:32Z Started
+
+2018-01-23 11:09:33Z GroundVU: finished
+
+2018-01-23 11:10:05Z 
+
+2018-01-23 11:10:29Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\Crown_Range_2018_lerp.csv fasfsefsf
+
+2018-01-23 11:10:30Z Started
+
+2018-01-23 11:10:30Z GroundVU: finished
+
+2018-01-23 11:10:37Z 
+

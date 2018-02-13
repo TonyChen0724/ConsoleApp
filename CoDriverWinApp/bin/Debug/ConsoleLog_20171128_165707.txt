@@ -1,0 +1,14 @@
+2017-11-28 16:57:07Z Start
+
+2017-11-28 16:57:25Z Files in paks folder checked
+
+2017-11-28 16:57:29Z CONNECT Socket Error!
+
+2017-11-28 16:57:36Z Command:ScenePack Console\CoDriverConsoleApp.exe-15 D:\ShippingVersion PilbaraAUWRCSS1 WeddingbellsAUWRC 
+
+2017-11-28 16:57:36Z Started
+
+2017-11-28 17:11:35Z ScenePack: Finished
+
+2017-11-28 17:11:35Z 
+

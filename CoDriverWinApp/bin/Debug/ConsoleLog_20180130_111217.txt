@@ -1,0 +1,32 @@
+2018-01-30 11:12:17Z Start
+
+2018-01-30 11:12:38Z CONNECT Socket Error!
+
+2018-01-30 11:13:03Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Front D:\testGroundVU\CardronaBikePark.csv CardronaBikePark
+
+2018-01-30 11:13:06Z Started
+
+2018-01-30 11:13:32Z 
+
+2018-01-30 11:20:36Z Command:XmpGenerater Console\CoDriverConsoleApp.exe-10 3 "D:\testGroundVU\Fronts" "D:\testGroundVU\CardronaBikePark.csv" 
+
+2018-01-30 11:20:36Z Started
+
+2018-01-30 11:20:50Z 
+
+2018-01-30 11:20:56Z Command:XmpGenerater Console\CoDriverConsoleApp.exe-10 3 "D:\testGroundVU\Fronts" "D:\testGroundVU\CardronaBikePark.csv" 
+
+2018-01-30 11:20:57Z Started
+
+2018-01-30 11:21:27Z 
+
+2018-01-30 11:21:36Z Command:XmpGenerater Console\CoDriverConsoleApp.exe-10 3 "D:\testGroundVU\Fronts" "D:\testGroundVU\CardronaBikePark.csv" 
+
+2018-01-30 11:21:37Z Started
+
+2018-01-30 11:22:15Z 
+
+2018-01-30 11:28:52Z Command:GroundVU Console\CoDriverConsoleApp.exe-16 D:\testGroundVU\Fronts D:\testGroundVU\CardronaBikePark_lerp.csv CardronaBikePark
+
+2018-01-30 11:28:53Z Started
+

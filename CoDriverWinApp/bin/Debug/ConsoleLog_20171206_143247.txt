@@ -1,0 +1,16 @@
+2017-12-06 14:32:47Z Start
+
+2017-12-06 14:32:55Z Command:MultiTask-ExtractImages FFmpeg\ffmpeg.exe--i "D:\image\VIRB_V0140021_Stitched.mp4"  -y -r 30 -q:v 1 -qscale:v 2 -qmin 1 -qmax 1 -qcomp 0 -qblur 0 "D:\image\VIRB_V0140021_Stitched\images\Front_%06d.jpg" 
+
+2017-12-06 14:32:55Z Command:MultiTask-ExtractGPSData OpenCV\OpenCVConsoleApp.exe-10 "D:\image\VIRB_V0140021_Stitched.mp4" "D:\image\VIRB_V0140021_Stitched\images\_gps5.txt" 
+
+2017-12-06 14:32:55Z Command:extractImage OpenCV\OpenCVConsoleApp.exe-11 D:\image\VIRB_V0140021_Stitched\images D:\image\VIRB_V0140021_Stitched\cubemaps
+
+2017-12-06 14:32:55Z D:\image\VIRB_V0140021_Stitched\images
+
+2017-12-06 14:33:08Z CONNECT Socket Error!
+
+2017-12-06 14:35:53Z 
+
+2017-12-06 14:35:54Z 
+

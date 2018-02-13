@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CoDriverConsoleApp" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="UE4Folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\UE Code\UnrealEngine-release-4.14.3\UnrealEngine-release\</Value>
+    </Setting>
+    <Setting Name="ProjectFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\DriTest\</Value>
+    </Setting>
+    <Setting Name="ProjectName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DriTest</Value>
+    </Setting>
+    <Setting Name="CapturingReality" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Capturing Reality\RealityCapture\</Value>
+    </Setting>
+    <Setting Name="CRProject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\CRSrcData\Proj\</Value>
+    </Setting>
+    <Setting Name="GroundVULocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\GV-1.2.92\Gv.exe</Value>
+    </Setting>
+    <Setting Name="GVworkingDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\testGroundVU\textRoad</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

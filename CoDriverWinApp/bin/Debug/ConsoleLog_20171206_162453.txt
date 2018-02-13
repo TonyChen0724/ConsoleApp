@@ -1,0 +1,4 @@
+2017-12-06 16:24:53Z Start
+
+2017-12-06 16:25:00Z Command:extractImage OpenCV\OpenCVConsoleApp.exe-11 D:\image\VIRB_V0140021_Stitched\images D:\image\VIRB_V0140021_Stitched\cubemaps
+

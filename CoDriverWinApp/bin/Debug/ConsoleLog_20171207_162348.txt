@@ -1,0 +1,126 @@
+2017-12-07 16:23:48Z Start
+
+2017-12-07 16:24:30Z Command:MultiTask-ExtractImages FFmpeg\ffmpeg.exe--i "D:\image\VIRB_V0140021_Stitched.mp4"  -y -r 30 -q:v 1 -qscale:v 2 -qmin 1 -qmax 1 -qcomp 0 -qblur 0 "D:\image\VIRB_V0140021_Stitched\Front_%06d.jpg" 
+
+2017-12-07 16:24:30Z Command:MultiTask-ExtractGPSData OpenCV\OpenCVConsoleApp.exe-10 "D:\image\VIRB_V0140021_Stitched.mp4" "D:\image\VIRB_V0140021_Stitched\D:\image\VIRB_V0140021_Stitched.mp4_gps5.txt" 
+
+2017-12-07 16:24:30Z Command:MultiTask-extractCubemap OpenCV\OpenCVConsoleApp.exe-11 D:\image\VIRB_V0140021_Stitched\ D:\image\OutputCubeMap 1024
+
+2017-12-07 16:24:30Z CONNECT Socket Error!
+
+2017-12-07 16:27:27Z 
+
+2017-12-07 16:27:31Z D:/New folder/Maya export mesh 1 florence hill/
+
+2017-12-07 16:27:31Z (null)
+
+2017-12-07 16:27:31Z (null)
+
+2017-12-07 16:27:31Z (null)
+
+2017-12-07 16:28:17Z 
+
+2017-12-07 16:28:18Z D:\image\VIRB_V0140021_Stitched\
+
+2017-12-07 16:28:18Z Front_000001.jpg
+
+2017-12-07 16:28:19Z Front_000002.jpg
+
+2017-12-07 16:28:21Z Front_000003.jpg
+
+2017-12-07 16:28:22Z Front_000004.jpg
+
+2017-12-07 16:28:23Z Front_000005.jpg
+
+2017-12-07 16:28:24Z Front_000006.jpg
+
+2017-12-07 16:28:26Z Front_000007.jpg
+
+2017-12-07 16:28:27Z Front_000008.jpg
+
+2017-12-07 16:28:28Z Front_000009.jpg
+
+2017-12-07 16:28:29Z Front_000010.jpg
+
+2017-12-07 16:28:31Z Front_000011.jpg
+
+2017-12-07 16:28:32Z Front_000012.jpg
+
+2017-12-07 16:28:33Z Front_000013.jpg
+
+2017-12-07 16:28:34Z Front_000014.jpg
+
+2017-12-07 16:28:36Z Front_000015.jpg
+
+2017-12-07 16:28:37Z Front_000016.jpg
+
+2017-12-07 16:28:38Z Front_000017.jpg
+
+2017-12-07 16:28:39Z Front_000018.jpg
+
+2017-12-07 16:28:40Z Front_000019.jpg
+
+2017-12-07 16:28:42Z Front_000020.jpg
+
+2017-12-07 16:28:43Z Front_000021.jpg
+
+2017-12-07 16:28:44Z Front_000022.jpg
+
+2017-12-07 16:28:45Z Front_000023.jpg
+
+2017-12-07 16:28:47Z Front_000024.jpg
+
+2017-12-07 16:28:48Z Front_000025.jpg
+
+2017-12-07 16:28:49Z Front_000026.jpg
+
+2017-12-07 16:28:50Z Front_000027.jpg
+
+2017-12-07 16:28:52Z Front_000028.jpg
+
+2017-12-07 16:28:53Z Front_000029.jpg
+
+2017-12-07 16:28:54Z Front_000030.jpg
+
+2017-12-07 16:28:55Z Front_000031.jpg
+
+2017-12-07 16:28:56Z Front_000032.jpg
+
+2017-12-07 16:28:58Z Front_000033.jpg
+
+2017-12-07 16:28:59Z Front_000034.jpg
+
+2017-12-07 16:29:01Z Front_000035.jpg
+
+2017-12-07 16:29:02Z Front_000036.jpg
+
+2017-12-07 16:29:03Z Front_000037.jpg
+
+2017-12-07 16:29:04Z Front_000038.jpg
+
+2017-12-07 16:29:06Z Front_000039.jpg
+
+2017-12-07 16:29:07Z Front_000040.jpg
+
+2017-12-07 16:29:08Z Front_000041.jpg
+
+2017-12-07 16:29:09Z Front_000042.jpg
+
+2017-12-07 16:29:11Z Front_000043.jpg
+
+2017-12-07 16:29:12Z Front_000044.jpg
+
+2017-12-07 16:29:13Z Front_000045.jpg
+
+2017-12-07 16:29:14Z Front_000046.jpg
+
+2017-12-07 16:29:16Z Front_000047.jpg
+
+2017-12-07 16:29:17Z Front_000048.jpg
+
+2017-12-07 16:29:18Z Front_000049.jpg
+
+2017-12-07 16:29:19Z Front_000050.jpg
+
+2017-12-07 16:29:20Z Front_000051.jpg
+

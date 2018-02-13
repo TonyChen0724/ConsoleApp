@@ -1,0 +1,10 @@
+2018-01-22 09:03:27Z Start
+
+2018-01-22 09:03:48Z CONNECT Socket Error!
+
+2018-01-22 09:03:51Z Command:Setting Console\CoDriverConsoleApp.exe-0 "D:\RallyTemplate" "RallyTemplate" "D:\UnrealEngine-release-4.14.3" "C:\Program Files\Capturing Reality\RealityCapture" "E:\CRSrcData\Proj" "D:\GV-1.2.92\Gv.exe" 
+
+2018-01-22 09:03:55Z Started
+
+2018-01-22 09:04:04Z 
+

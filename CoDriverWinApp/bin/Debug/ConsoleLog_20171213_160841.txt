@@ -1,0 +1,166 @@
+2017-12-13 16:08:41Z Start
+
+2017-12-13 16:09:02Z CONNECT Socket Error!
+
+2017-12-13 16:09:03Z Command:ExtractImages FFmpeg\ffmpeg.exe--i "D:\New folder\VIRB_V0140021_Stitched.mp4"  -y -r 30 -q:v 1 -qscale:v 2 -qmin 1 -qmax 1 -qcomp 0 -qblur 0 "D:\New folder\VIRB_V0140021_Stitched\Front_%06d.jpg" 
+
+2017-12-13 16:12:00Z 
+
+2017-12-13 16:12:01Z finished
+
+2017-12-13 16:12:01Z finished
+
+2017-12-13 16:12:02Z finished
+
+2017-12-13 16:12:02Z finished
+
+2017-12-13 16:12:03Z finished
+
+2017-12-13 16:12:03Z finished
+
+2017-12-13 16:12:04Z finished
+
+2017-12-13 16:12:04Z finished
+
+2017-12-13 16:12:05Z finished
+
+2017-12-13 16:12:05Z finished
+
+2017-12-13 16:12:06Z finished
+
+2017-12-13 16:12:06Z finished
+
+2017-12-13 16:12:07Z finished
+
+2017-12-13 16:12:07Z finished
+
+2017-12-13 16:12:08Z finished
+
+2017-12-13 16:12:08Z finished
+
+2017-12-13 16:12:09Z finished
+
+2017-12-13 16:12:09Z finished
+
+2017-12-13 16:12:10Z finished
+
+2017-12-13 16:12:10Z finished
+
+2017-12-13 16:12:11Z finished
+
+2017-12-13 16:12:11Z finished
+
+2017-12-13 16:12:12Z finished
+
+2017-12-13 16:12:12Z finished
+
+2017-12-13 16:12:13Z finished
+
+2017-12-13 16:12:13Z finished
+
+2017-12-13 16:12:14Z finished
+
+2017-12-13 16:12:14Z finished
+
+2017-12-13 16:12:15Z finished
+
+2017-12-13 16:12:15Z finished
+
+2017-12-13 16:12:16Z finished
+
+2017-12-13 16:12:16Z finished
+
+2017-12-13 16:12:17Z finished
+
+2017-12-13 16:12:17Z finished
+
+2017-12-13 16:12:18Z finished
+
+2017-12-13 16:12:18Z finished
+
+2017-12-13 16:12:19Z finished
+
+2017-12-13 16:12:19Z finished
+
+2017-12-13 16:12:20Z finished
+
+2017-12-13 16:12:20Z finished
+
+2017-12-13 16:12:21Z finished
+
+2017-12-13 16:12:21Z finished
+
+2017-12-13 16:12:22Z finished
+
+2017-12-13 16:12:22Z finished
+
+2017-12-13 16:12:23Z finished
+
+2017-12-13 16:12:23Z finished
+
+2017-12-13 16:12:24Z finished
+
+2017-12-13 16:12:24Z finished
+
+2017-12-13 16:12:25Z finished
+
+2017-12-13 16:12:25Z finished
+
+2017-12-13 16:12:26Z finished
+
+2017-12-13 16:12:26Z finished
+
+2017-12-13 16:12:27Z finished
+
+2017-12-13 16:12:27Z finished
+
+2017-12-13 16:12:28Z finished
+
+2017-12-13 16:12:28Z finished
+
+2017-12-13 16:12:29Z finished
+
+2017-12-13 16:12:29Z finished
+
+2017-12-13 16:12:30Z finished
+
+2017-12-13 16:12:30Z finished
+
+2017-12-13 16:12:31Z finished
+
+2017-12-13 16:12:31Z finished
+
+2017-12-13 16:12:32Z finished
+
+2017-12-13 16:12:32Z finished
+
+2017-12-13 16:12:33Z finished
+
+2017-12-13 16:12:33Z finished
+
+2017-12-13 16:12:34Z finished
+
+2017-12-13 16:12:34Z finished
+
+2017-12-13 16:12:35Z finished
+
+2017-12-13 16:12:35Z finished
+
+2017-12-13 16:12:36Z finished
+
+2017-12-13 16:12:36Z finished
+
+2017-12-13 16:12:37Z finished
+
+2017-12-13 16:12:37Z finished
+
+2017-12-13 16:12:38Z finished
+
+2017-12-13 16:12:38Z finished
+
+2017-12-13 16:12:39Z finished
+
+2017-12-13 16:12:39Z finished
+
+2017-12-13 16:12:40Z finished
+

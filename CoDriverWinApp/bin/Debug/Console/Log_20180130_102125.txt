@@ -1,0 +1,6 @@
+2018-01-30 10:21:25Z Started
+
+2018-01-30 10:21:30Z CR-RunBuildProject -newScene -addFolder D:\testGroundVU\Front\ -save D:\testGroundVU\Front\proj -quit
+
+2018-01-30 10:21:30Z 
+

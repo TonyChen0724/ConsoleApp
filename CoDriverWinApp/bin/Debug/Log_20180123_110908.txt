@@ -1,0 +1,4 @@
+2018-01-23 11:09:08Z Started
+
+2018-01-23 11:09:08Z GroundVU: Working Dir does not exist
+

@@ -1,0 +1,12 @@
+2017-11-24 13:40:32Z Start
+
+2017-11-24 13:40:43Z Files in paks folder checked
+
+2017-11-24 13:40:51Z Command:ScenePack Console\CoDriverConsoleApp.exe-packscene  
+
+2017-11-24 13:40:52Z Start
+
+2017-11-24 13:40:52Z 
+
+2017-11-24 13:40:54Z CONNECT Socket Error!
+

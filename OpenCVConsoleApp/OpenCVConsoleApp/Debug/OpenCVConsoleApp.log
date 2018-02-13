@@ -1,0 +1,32 @@
+﻿  FisheyeModel.cpp
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(364): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(407): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(450): warning C4018: '<=': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(465): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(481): warning C4018: '<=': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(495): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(511): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(535): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(581): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(600): warning C4018: '<=': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(614): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(630): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(648): warning C4018: '<=': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(663): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(872): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\privateprofile.h(1026): warning C4018: '<': signed/unsigned mismatch
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(424): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(475): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(544): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(625): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(626): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(627): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(553): warning C4101: 'xy': unreferenced local variable
+d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(644): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+  d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(644): note: consider using '%ls' in the format string
+  d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(644): note: consider using '%lls' in the format string
+  d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(644): note: consider using '%Ls' in the format string
+  d:\codrivertools\opencvconsoleapp\opencvconsoleapp\fisheyemodel.cpp(644): note: consider using '%ws' in the format string
+opencv_core2413d.lib(opencv_core2413d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'

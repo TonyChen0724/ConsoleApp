@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoDriverConsoleApp", "CoDriverConsoleApp\CoDriverConsoleApp.csproj", "{4E18C2C3-42BF-414B-8902-B924EA26B966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoDriverServerConsole", "CoDriverServerConsole\CoDriverServerConsole.csproj", "{03CAEAB2-1A9D-40B6-860E-1417A7342B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E18C2C3-42BF-414B-8902-B924EA26B966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E18C2C3-42BF-414B-8902-B924EA26B966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E18C2C3-42BF-414B-8902-B924EA26B966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E18C2C3-42BF-414B-8902-B924EA26B966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CAEAB2-1A9D-40B6-860E-1417A7342B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CAEAB2-1A9D-40B6-860E-1417A7342B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CAEAB2-1A9D-40B6-860E-1417A7342B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CAEAB2-1A9D-40B6-860E-1417A7342B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

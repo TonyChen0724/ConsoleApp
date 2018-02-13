@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CoDriverWinApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProjectFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\DriTest</Value>
+    </Setting>
+    <Setting Name="ProjectName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DriTest</Value>
+    </Setting>
+    <Setting Name="CapturingReality" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Capturing Reality\RealityCapture</Value>
+    </Setting>
+    <Setting Name="CRProjectFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\CRSrcData\Proj</Value>
+    </Setting>
+    <Setting Name="IsClient" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PortServer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">11001</Value>
+    </Setting>
+    <Setting Name="PortClient" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">11003</Value>
+    </Setting>
+    <Setting Name="ClientType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PSG</Value>
+    </Setting>
+    <Setting Name="UE4Engine" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="WorkFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HostIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">169.254.100.99</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,6 @@
+2017-11-24 14:07:51Z Start
+
+2017-11-24 14:08:03Z Files in paks folder checked
+
+2017-11-24 14:08:19Z Command:ScenePack Console\CoDriverConsoleApp.exe-packscene D:\tst\ShippingVersion D:\pakstuff
+
